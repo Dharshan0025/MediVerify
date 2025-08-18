@@ -1,3 +1,4 @@
 MediVerify is an AI-powered prescription verification and medicine safety platform.
 This backend is built with Spring Boot to handle API requests, connect to databases, and integrate with AI & OCR services.
-![Uploading ChatGPT Image Aug 18, 2025, 10_45_26 PM.png…]()
+
+<img width="1024" height="1536" alt="mediverify" src="https://github.com/user-attachments/assets/3e0ba8c1-7f6e-4c65-a13b-39c66777e8a5" />
